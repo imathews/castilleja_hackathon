@@ -1,0 +1,17 @@
+[{
+    "name"       : "app8080",
+    "script"     : "app.js",
+//    "error_file" : "./examples/child-err.log",
+//    "out_file"   : "./examples/child-out.log",
+    "args" : "8080",
+    "exec_mode"  : "fork_mode",
+    "port"       : 8080
+},{
+    "name"       : "app8081",
+    "script"     : "app.js",
+    "args" : "8081",
+//    "error_file" : "./examples/child-err.log",
+//    "out_file"   : "./examples/child-out.log",
+    "exec_mode"  : "fork_mode",
+    "port"       : 8081
+}]

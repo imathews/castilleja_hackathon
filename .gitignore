@@ -1,0 +1,16 @@
+keys.json
+.idea
+.idea/*
+public/javascripts/*
+public/stylesheets/*
+
+public/images/collections
+public/images/maps
+public/images/models
+public/images/users
+public/images/visualizations
+
+filesystem/*
+!filesystem/.keep
+npm-debug.log
+*.map

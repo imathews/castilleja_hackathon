@@ -1,4 +1,1 @@
-# Redivis
-### Data. (re)Imagined.
-
-#### Srsly.
+WOOHOOO!!
